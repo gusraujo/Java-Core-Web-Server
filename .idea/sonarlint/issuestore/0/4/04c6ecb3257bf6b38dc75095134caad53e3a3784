@@ -1,0 +1,8 @@
+
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÎûÄƒ8ØŸÓ”ù1
+j
+java:S1604"(Make this anonymous inner class a lambda(ô§ê8È†Í”ù1J$185d2645-919f-4f2d-ab3d-6667c19047d2
+p
+java:S1604"(Make this anonymous inner class a lambda(é˜Æ¬üÿÿÿÿ8¬ÄÏ”ù1J$3f77d68d-58ae-4f52-a4f0-2fb42c6c343e
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Î¤ˆùÿÿÿÿJ$97837aab-1254-4478-8e3f-ee6ba415f7af
+r	java:S106"+Replace this use of System.out by a logger.(ëÊÁªúÿÿÿÿ8ÃÄÏ”ù1J$4fca6571-699e-4f20-9e3d-7a22040e8556

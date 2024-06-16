@@ -1,0 +1,19 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( µôùÿÿÿÿ8’û¢•ù1J$05e913a0-c155-454c-a86d-a4eba5eeac33
+¡
+java:S2142,"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8óé˜•ù1J$b707925e-75a2-41f9-b68d-0d171d59a909
+k	java:S108,")Either remove or fill this block of code.(ä ¹€8óé˜•ù1J$fbea01f3-2a17-4add-a5cc-c087ec306120
+ˆ
+java:S21342"@Don't extend "Thread", since the "run" method is not overridden.(ğªÛÅşÿÿÿÿ8õé˜•ù1J$cf3f88b3-2f97-49db-9a7b-84f6c50cde0b
+
+java:S11242"EReorder the modifiers to comply with the Java Language Specification.(ğªÛÅşÿÿÿÿ8õé˜•ù1J$81cb3395-c020-41b1-b2e8-a1ce3dbab36b
+‹
+java:S3551<"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8öé˜•ù1J$4920b939-5e14-42b9-a461-6aef355540b3
+r	java:S106="+Replace this use of System.out by a logger.(éÚ­Éûÿÿÿÿ8ıé˜•ù1J$3e4d585d-ed81-42d5-aa48-82dbb31d2557
+r	java:S106L"+Replace this use of System.out by a logger.(ş´Êçşÿÿÿÿ8ıé˜•ù1J$83d1d173-1ea2-4158-b2ba-91a562ffa6db
+r	java:S106]"+Replace this use of System.out by a logger.(ş´Êçşÿÿÿÿ8ó©£•ù1J$696694bd-d836-4c25-9320-3ffbd08a8c6e
+¡
+java:S2142j"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8üé˜•ù1J$b5a22d91-a22e-4b24-805b-10c53af6974b
+k	java:S108j")Either remove or fill this block of code.(ä ¹€8ıé˜•ù1J$13287039-ded2-4de8-a8f3-08a52424fb49
+r	java:S106l"+Replace this use of System.out by a logger.(´‹¹öşÿÿÿÿ8ö©£•ù1J$1b5e9b6d-f270-4ced-a0e0-006ba0b5c74b
+r	java:S106o"+Replace this use of System.out by a logger.(£™×§úÿÿÿÿ8ö©£•ù1J$f301fc4c-3374-4c08-a6a6-d2bde864b41b

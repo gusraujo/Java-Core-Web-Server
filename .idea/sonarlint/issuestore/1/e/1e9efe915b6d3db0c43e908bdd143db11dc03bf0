@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù¹Úı8Ñ®îÂù1J$893a2cda-e015-405d-ab38-ab19dc06a677
+g
+java:S2129"$Remove this "BigInteger" constructor(¯†•8É¯îÂù1J$76133cb2-874c-4270-8790-464a5c6452dc
+g
+java:S2129"$Remove this "BigInteger" constructor(¯†•8Ê¯îÂù1J$06cb5dbd-c755-4f56-966a-0b28a2541fd4
+m	java:S106"+Replace this use of System.out by a logger.(¬¤ÊË8Ş¯îÂù1J$2004c573-2d39-4396-ab95-fd2cde9d2a16
+r	java:S106""+Replace this use of System.out by a logger.(šŸ»°úÿÿÿÿ8ëïÂù1J$5887e3bc-deb1-4570-81b7-91d5afa7c654

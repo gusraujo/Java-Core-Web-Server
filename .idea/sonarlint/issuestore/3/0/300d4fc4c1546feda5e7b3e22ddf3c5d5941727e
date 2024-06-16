@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ìñ”á8˜Ì²Óû1J$40495f0f-fa91-47ce-9190-cf0307fc14d5
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(èüýÞúÿÿÿÿ8Ë¶Óû1J$4182b3bb-5e2f-461f-bd19-c109335f2eac
+r	java:S106"+Replace this use of System.out by a logger.(ÄÜÜñúÿÿÿÿ8°í²Óû1J$6536f8d5-4d76-470a-b780-930646e68f6a
+¡
+java:S2142W"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÆÍ²Óû1J$3638a68d-8013-464c-acc7-94ec609ac715
+t
+java:S1128	",Remove this unused import 'java.util.Timer'.(†£ñáÿÿÿÿÿ8ÏÍ²Óû1J$cd27f182-f47f-48a5-a119-d14386042dcd

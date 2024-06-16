@@ -1,0 +1,12 @@
+
+¡
+java:S2142/"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Ä¯³û1J$dceb87ef-9a99-42a2-b774-c3799a0f49f7
+l
+java:S2129P"$Remove this "BigInteger" constructor(ôÃì˜ÿÿÿÿÿ8Èê¨³û1J$c2c59e37-4aa1-46bb-9257-ed424012c055
+l
+java:S2129Q"$Remove this "BigInteger" constructor(Å‘ãóüÿÿÿÿ8Éê¨³û1J$ab5cd7e6-b5c8-4aab-a868-a200c56fb8c0
+g
+java:S2129R"$Remove this "BigInteger" constructor(«ÙÉ8Êê¨³û1J$9988a54a-7b19-4289-8ae2-591b6630f243
+l
+java:S2129S"$Remove this "BigInteger" constructor(ùó­ûÿÿÿÿ8Êê¨³û1J$6966af7f-f42d-442a-97e7-817f1d350eca
+r	java:S106V"+Replace this use of System.out by a logger.(ÍØ²«úÿÿÿÿ8Ìê¨³û1J$d2bda4f5-836c-4929-a759-f65980a28a36
